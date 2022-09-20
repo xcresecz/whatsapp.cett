@@ -1,4 +1,4 @@
-# Spam Wa Nya Ganzz
+#1 whatsapp.cett
 
 
 • pkg update && pkg upgrade
@@ -10,8 +10,8 @@
 
 • PIP install requests bs4 future rich mechanize
 
-• git clone https://github.com/ZoroXMBF/Spam
+• git clone https://github.com/xcresecz/whatsapp.cett
 
-• cd Spam
+• cd whatspp.cett 
 
 • python spam.py
