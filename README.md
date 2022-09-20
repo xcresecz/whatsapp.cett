@@ -12,6 +12,6 @@
 
 • git clone https://github.com/xcresecz/whatsapp.cett
 
-• cd whatspp.cett 
+• cd whatsapp.cett 
 
 • python spam.py
